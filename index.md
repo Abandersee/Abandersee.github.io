@@ -1,1 +1,3 @@
-A website for my favourite character is currently being built here!
+# This is the web site of Simon Brenner
+
+The web site is under construction
