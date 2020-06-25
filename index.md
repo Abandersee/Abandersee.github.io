@@ -1,3 +1,3 @@
-# This is the web site of Simon Brenner
+# This is the web site of Josef Hader
 
-The web site is under construction
+Josef Hader is a austrian actor. My favourite character is Simon Brenner a private investigator and former police inspector. He walks the line most of the time on the side of law and order. Often he has conflicts with the police while helping his clients andd alwais something happens.
