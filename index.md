@@ -3,9 +3,7 @@
 Josef Hader is a austrian actor. My favourite character is Simon Brenner a private investigator and former police inspector. He walks the line most of the time on the side of law and order. Often he has conflicts with the police while helping his clients andd alwais something happens.
 
 ## Chracter traits
-* likes: 
-    * Salzburg
-    * cats
-* hates: 
-    * Graz
-    * his former police collegues
+* likes Salzburg
+* likes cats
+* hates Graz
+* hates his former police collegues
