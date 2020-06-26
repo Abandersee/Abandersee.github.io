@@ -7,3 +7,6 @@ Josef Hader is a austrian actor. My favourite character is Simon Brenner a priva
 * likes cats
 * hates Graz
 * hates his former police collegues
+
+Quote
+> S'isch scho wieder was passiert
