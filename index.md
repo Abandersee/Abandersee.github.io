@@ -10,3 +10,5 @@ Josef Hader is a austrian actor. My favourite character is Simon Brenner a priva
 
 Quote
 > S'isch scho wieder was passiert
+
+<img src="https://images-na.ssl-images-amazon.com/images/G/03/Aplus/DVD/Das_ewige_Leben6.jpg"/>
